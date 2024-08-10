@@ -1,12 +1,12 @@
 class first{
 
- int a = 3;
- int b = 2;
- int c = b + a;
- System.out.println(c);
+ static int a = 3;
+ static int b = 2;
+ static int c = b + a;
 
     public static void main(String[] args) {
         
+        System.out.println(c);
 
     }
 }

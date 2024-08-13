@@ -1,3 +1,9 @@
+
+/*
+This program focuses on Java's Access modifiers.
+ */
+
+
 class AccessModifiers{
 
 private int a;

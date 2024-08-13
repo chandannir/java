@@ -1,3 +1,6 @@
+//package access-modifiers;
+
+
 /*
 This java program focuses on the default access modifier.
 
@@ -8,7 +11,7 @@ The scope is within the package. Any class within the package can use this varia
 
 public class DefaultAccessModifier {
 
-    default int e;
+   // default int e;
 
     int f;
     /*
